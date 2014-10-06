@@ -13,7 +13,7 @@ use Data::Dumper;
 #this gets a song list in order
 # my @songList = @{generateSongList(50)};
 
-print Dumper(randomizePlaylist(generateSongList(50)));
+print Dumper(randomizePlaylist(generateSongList(100)));
 
 #generate a song list in order, 0 - n
 sub generateSongList {
@@ -28,7 +28,7 @@ sub generateSongList {
     return \@songList;
 }
 
-#this randomizes the song
+#this randomizes the song - O(N) complexity
 sub randomizePlaylist {
     my $songs = shift;
     die 'NOT ARRAY REF OF SONGS' unless(ref($songs) eq 'ARRAY');
