@@ -40,7 +40,7 @@ sub randomizePlaylist {
 
     ### fisher yates shuffle
     for (my $i = scalar(@songs)-1; $i > 0; $i--) {
-        my $j = int(rand($i));
+        my $j = int(rand($i+1));
 
         #we need a temp variable for readability
         my $temp = $songs[$j];
