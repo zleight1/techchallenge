@@ -1,0 +1,1909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geneate",
+				"generateHomeEquityItemData"
+			],
+			[
+				"inser",
+				"insertParameters"
+			],
+			[
+				"Cust",
+				"CustAcctDocs"
+			],
+			[
+				"SQL",
+				"SQLInsertReturnIdentity"
+			],
+			[
+				"sql",
+				"sqlValues"
+			],
+			[
+				"item",
+				"itemID"
+			],
+			[
+				"fix",
+				"fixedLocation"
+			],
+			[
+				"LO",
+				"LOAN_SERVER"
+			],
+			[
+				"outF",
+				"outFileWindowsPath"
+			],
+			[
+				"out",
+				"outFileWithPath"
+			],
+			[
+				"local",
+				"localFileList"
+			],
+			[
+				"load",
+				"loadDataFile"
+			],
+			[
+				"getF",
+				"generateFileName"
+			],
+			[
+				"get",
+				"getDocumentLocation"
+			],
+			[
+				"DocCent",
+				"DocCenterVault"
+			],
+			[
+				"FI",
+				"FILE_SHARE"
+			],
+			[
+				"L",
+				"LOAN_SERVER"
+			],
+			[
+				"getDoc",
+				"getDocNameInfo"
+			],
+			[
+				"getDatePlus",
+				"getDatePlusDays"
+			],
+			[
+				"getDatePl",
+				"getDatePlusDays"
+			],
+			[
+				"fiel",
+				"fileExtension"
+			],
+			[
+				"file",
+				"fileExtension"
+			],
+			[
+				"debug",
+				"debugPrintLog"
+			],
+			[
+				"debugPritn",
+				"debugPrintLog"
+			],
+			[
+				"exe",
+				"execute_script"
+			],
+			[
+				"navigate",
+				"navigateToCashFlow"
+			],
+			[
+				"debugPrint",
+				"debugPrintLog"
+			],
+			[
+				"deleteBil",
+				"deleteBillPayVendor($twd"
+			],
+			[
+				"delete",
+				"deleteBillPayPayment($twd"
+			],
+			[
+				"sa",
+				"safeNavigate"
+			],
+			[
+				"debugPr",
+				"debugPrintLog"
+			],
+			[
+				"payment",
+				"paymentAmount"
+			],
+			[
+				"paymentA",
+				"paymentAmountF"
+			],
+			[
+				"debugP",
+				"debugPrintLog"
+			],
+			[
+				"payme",
+				"paymentAmount"
+			],
+			[
+				"sch",
+				"scheduledTable"
+			],
+			[
+				"addBi",
+				"addBillPayPayment"
+			],
+			[
+				"navigateToB",
+				"navigateToBillPayVendors"
+			],
+			[
+				"naviga",
+				"navigateToAddVendor"
+			],
+			[
+				"nav",
+				"navigateToBillPay"
+			],
+			[
+				"navig",
+				"navigateToAddVendor"
+			],
+			[
+				"body",
+				"body_text_like"
+			],
+			[
+				"driv",
+				"driverArgs"
+			],
+			[
+				"DaTA",
+				"Data::Dumper"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"genericJ",
+				"genericJsonError"
+			],
+			[
+				"getWeb",
+				"getWebMessageById"
+			],
+			[
+				"webMes",
+				"webMessage"
+			],
+			[
+				"no",
+				"noresponserequired"
+			],
+			[
+				"ignore",
+				"ignoreNote"
+			],
+			[
+				"webMess",
+				"webMessageAddNote"
+			],
+			[
+				"generi",
+				"genericJsonError"
+			],
+			[
+				"webM",
+				"webmsgid"
+			],
+			[
+				"adminGet",
+				"adminGetCurrentLoggedInUser"
+			],
+			[
+				"mysql",
+				"mysqltime"
+			],
+			[
+				"getD",
+				"getDDATransactionType_cobol"
+			],
+			[
+				"webMe",
+				"webMessageLock"
+			],
+			[
+				"getWe",
+				"getWebMessageById"
+			],
+			[
+				"initM",
+				"initMessageVisuals()	webmessages.message.js"
+			],
+			[
+				"h",
+				"history"
+			],
+			[
+				"WWL",
+				"WWLoadScreenAdmin"
+			],
+			[
+				"webmsg",
+				"webmsgid"
+			],
+			[
+				"getweb",
+				"getWebMessageData"
+			],
+			[
+				"hasbeen",
+				"hasbeenreplied"
+			],
+			[
+				"setWeb",
+				"setWebMessageData"
+			],
+			[
+				"for",
+				"for (var id in aSome) {"
+			],
+			[
+				"getWebMessage",
+				"getWebMessageData"
+			],
+			[
+				"getWebMes",
+				"getWebMessageData"
+			],
+			[
+				"formH",
+				"formHash"
+			],
+			[
+				"duplicate",
+				"duplicateprevention"
+			],
+			[
+				"ell",
+				"ellipse"
+			],
+			[
+				"importa",
+				"important"
+			],
+			[
+				"print",
+				"printlog"
+			],
+			[
+				"SER",
+				"SERVER_NAME"
+			],
+			[
+				"proxy",
+				"proxyAuthDie"
+			],
+			[
+				"SCR",
+				"SCRIPT_NAME"
+			],
+			[
+				"CGI",
+				"CGI::Session"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"empty",
+				"empty()	jquery-1.7.2.js"
+			],
+			[
+				"formatC",
+				"formatCurrencyTransaction"
+			],
+			[
+				"checkEdit",
+				"checkEditResult"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"sess",
+				"session_id"
+			],
+			[
+				"test",
+				"testDevice"
+			],
+			[
+				"current",
+				"currentUrl"
+			],
+			[
+				"heart",
+				"heartbleed"
+			],
+			[
+				"hear",
+				"heartbleed"
+			],
+			[
+				"xferP",
+				"xferpincheck"
+			],
+			[
+				"testR",
+				"testResult"
+			],
+			[
+				"t",
+				"twd"
+			],
+			[
+				"approve",
+				"approvedby"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"paren",
+				"parents	.parents()"
+			],
+			[
+				"pending",
+				"pendingsince"
+			],
+			[
+				"pendingR",
+				"pendingRows"
+			],
+			[
+				"pend",
+				"pendingRDC"
+			],
+			[
+				"Success",
+				"Successfully"
+			],
+			[
+				"RDC",
+				"RDCInfo"
+			],
+			[
+				"handleRDC",
+				"handleRDCActivate"
+			],
+			[
+				"handleRD",
+				"handleRDCEdit"
+			],
+			[
+				"rdcac",
+				"rdcactivate"
+			],
+			[
+				"genr",
+				"genericJsonSuccess"
+			],
+			[
+				"ipaysu",
+				"ipaysubscribers"
+			],
+			[
+				"handlei",
+				"handleiPayRemove"
+			],
+			[
+				"viewI",
+				"viewiPayEdit"
+			],
+			[
+				"ip",
+				"iPayActive"
+			],
+			[
+				"daily",
+				"dailyDepositThreshold"
+			],
+			[
+				"getC",
+				"getCommunicationPreferencesByID"
+			],
+			[
+				"buildCU",
+				"buildCustomerCommunicationPreferenceRow"
+			],
+			[
+				"viewAddAccount",
+				"viewAddAccountResults"
+			],
+			[
+				"url_",
+				"url_api"
+			],
+			[
+				"header",
+				"header(\"text"
+			],
+			[
+				"RE",
+				"REQUEST_URI"
+			],
+			[
+				"viewEdit",
+				"viewEditAlert"
+			],
+			[
+				"ajax",
+				"ajaxParam"
+			],
+			[
+				"auth-in",
+				"auth-initial-message"
+			],
+			[
+				"hide",
+				"hideAll"
+			],
+			[
+				"build",
+				"buildCustomerNoteRow"
+			],
+			[
+				"viewEdi",
+				"viewEditCustomerNote"
+			],
+			[
+				"handleEdit",
+				"handleEditCustomerNote"
+			],
+			[
+				"handleAdd",
+				"handleAddCustomerNote"
+			],
+			[
+				"viewCu",
+				"viewCustomerNotes"
+			],
+			[
+				"handleRemove",
+				"handleRemoveTransferAccount"
+			],
+			[
+				"read",
+				"readonly	Attr"
+			],
+			[
+				"genericJson",
+				"genericJsonSuccess"
+			],
+			[
+				"handleAd",
+				"handleAddWebMessage"
+			],
+			[
+				"undefin",
+				"undefined"
+			],
+			[
+				"viewC",
+				"viewCustomerByAccount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/perl.sublime-build",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"modern",
+				"Set Syntax: ModernPerl"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"",
+				"Beautify::Beautify File"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"jslin",
+				"Snippet: JS revealing module pattern"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pACK",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"syntax",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"packrel",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git quit",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"errors",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"cvs",
+				"Quick CVS: status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"addr",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"packl",
+				"Package Control: Add Channel"
+			],
+			[
+				"perl",
+				"Snippet: Read File"
+			],
+			[
+				"mpder",
+				"Set Syntax: ModernPerl"
+			],
+			[
+				"minif",
+				"Minify Javascript to file"
+			],
+			[
+				"minifi",
+				"Minify Javascript to file"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"beauty",
+				"HTMLBeautify"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"synx",
+				"Set Syntax: XML"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimecodeint",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"syntaxjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"all err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"report",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"repor",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"re",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"moderl",
+				"Set Syntax: ModernPerl"
+			],
+			[
+				"report ",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"edit ",
+				"PerlTidy: Tidy"
+			],
+			[
+				"moder",
+				"Set Syntax: ModernPerl"
+			],
+			[
+				"lint er",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"per",
+				"PerlTidy: Tidy"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"perl set",
+				"Package Control: Install Package"
+			],
+			[
+				"refr",
+				"SublimeLint: Report (Open Files)"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"Project: Refresh Folders"
+			],
+			[
+				"sublimt",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"subm",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 547.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"echo",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zleighton/work/git/techchallenge"
+	],
+	"file_history":
+	[
+		"/mnt/hdr/lib/dbhBestLending.pl",
+		"/mnt/hdr/scripts/importHomeEquityBills.pl",
+		"/Users/zleighton/work/sauce/.git/objects/57/b03142290d6c471c1ada307afb072963605d21",
+		"/Users/zleighton/work/sauce/atc-sauce.sublime-project",
+		"/Users/zleighton/work/sauce/ATCTest.pm",
+		"/Users/zleighton/work/sauce/ATC/Utils.pm",
+		"/Users/zleighton/work/sauce/sauce.log",
+		"/Users/zleighton/work/sauce/.git/objects/98/a13d2bd76c3afda32008348b28b9f2fd783a04",
+		"/Users/zleighton/work/txschgalw-tofis.pl",
+		"/Users/zleighton/work/sauce/hzTest_BillPay.pl",
+		"/Users/zleighton/work/sauce/saucelib.pl",
+		"/Users/zleighton/work/sauce/sc",
+		"/Users/zleighton/work/mean/myApp/packages/users/public/views/register.html",
+		"/Users/zleighton/work/mean/myApp/packages/users/public/routes/auth.js",
+		"/Users/zleighton/work/mean/testApp/packages/system/public/views/header.html",
+		"/mnt/webwise30/web/template/ww30notice.tmpl",
+		"/mnt/webwise30/ww30-feedback-20131219.ods",
+		"/mnt/webwise30/lib/templatelib.pl.wwold",
+		"/mnt/webwise30/lib/wwtemplatelib.pl",
+		"/mnt/webwise30/ace-demo/mustache/js/node_modules/mustache/test/_files/partial_template.partial",
+		"/mnt/webwise30/ace-demo/mustache/js/node_modules/htmlparser2/node_modules/domhandler/tests/20-template_script_tags.json",
+		"/mnt/webwise30/temp.txt",
+		"/mnt/cobolgen/errlist/tickfile_ex.lst",
+		"/mnt/webwise30/table_creation",
+		"/mnt/webwise30/web/template/loan.tmpl",
+		"/mnt/webwise30/admin/login.cgi",
+		"/mnt/cobolgen/9-17/link-aindx",
+		"/mnt/webwise30/lib/odbclib.pl",
+		"/mnt/webwise30/ace-demo/assets/css/less/icon-animated.less",
+		"/mnt/webwise30/web/mobile-bootstrap/accountlist.tmpl",
+		"/mnt/webwise30/ace-demo/nestable-list.html",
+		"/mnt/webwise30/ace-demo/mustache/js/node_modules/mustache/test/_files/empty_list.txt",
+		"/mnt/webwise30/web/mobile-bootstrap/xfersched.tmpl",
+		"/mnt/cobolgen/outperl/xferlog.cgi",
+		"/mnt/cobolgen/outperl/xferconfig.list.html",
+		"/mnt/webwise30/web/template/betawarn.utils",
+		"/mnt/webwise30/web/mobile-bootstrap/betawarn.utils",
+		"/mnt/webwise30/web/mobile-bootstrap/betawarn.utils~",
+		"/mnt/webwise30/web/betawarn.cgi~",
+		"/mnt/webwise30/web/betawarn.cgi",
+		"/mnt/cobolgen/billtable-entries-with-bad-dates-20140807.csv",
+		"/mnt/cobolgen/errlist/billtable_ex.lst",
+		"/mnt/webwise30/.git/objects/3d/bea2bd4d1193bbdc7b591a311e37ac322fabd3",
+		"/mnt/webwise30/web/billpay.cgi",
+		"/mnt/webwise30/admin/template/webmessages/webmessages.dashboard.tmpl",
+		"/mnt/webwise30/wwapi/hz_wwapiAuth.pl",
+		"/mnt/webwise30/wwapi/hz_wwapiTransfer.pl",
+		"/mnt/cobolgen/histdir",
+		"/mnt/webwise30/lib/ww30web.pl",
+		"/mnt/webwise30/admin/template/newaccounts/newaccount.customer-0.tmpl",
+		"/mnt/webwise30/web/template/datepicker.utils",
+		"/mnt/webwise30/web/template/xfersched.tmpl~",
+		"/mnt/webwise30/web/template/xfersched.tmpl",
+		"/mnt/webwise30/web/mobile-bootstrap/xfersched.tmpl~",
+		"/mnt/cobolgen/outperl/xferschedule.edit.html",
+		"/mnt/cobolgen/outperl/xferschedule.cgi",
+		"/mnt/webwise30/web/mobile-bootstrap/xfersched.js",
+		"/mnt/cobolgen/outperl/xferconfig.edit.html",
+		"/mnt/webwise30/web/mobile-bootstrap/xferschedlist.tmpl",
+		"/mnt/cobolgen/outperl/xferconfig.cgi",
+		"/mnt/webwise30/lib/xchangelib.pl",
+		"/mnt/webwise30/admin/transfers-ajax.pl",
+		"/mnt/webwise30/web/auth.cgi",
+		"/mnt/webwise30/web/accounthist.cgi",
+		"/mnt/webwise30/admin/accounts-ajax.pl",
+		"/mnt/webwise30/admin/customers-ajax.cgi",
+		"/mnt/webwise30/admin/template/customers/customer.js",
+		"/mnt/webwise30/web/checkimage.cgi",
+		"/Users/zleighton/work/sauce/wwtest.pl",
+		"/mnt/webwise30/master-account-list-20140502.txt",
+		"/Users/zleighton/work/sauce/matchtest.pl",
+		"/mnt/webwise30/wwapi/wwapiBillPay.pl",
+		"/mnt/webwise30/wwapi/bakfiles/wwapiBillPay.pl-old",
+		"/mnt/webwise30/ace-demo/examples/wysiwyg.html",
+		"/mnt/webwise30/ace-demo/wysiwyg.html",
+		"/mnt/webwise30/admin/template/webmessages/webmessages.compose.wysiwyg.tmpl~",
+		"/mnt/webwise30/scripts/dailyWebWise.pl",
+		"/mnt/webwise30/scripts/dailyWebWiseXfers.pl",
+		"/mnt/webwise30/scripts/dailyWebWiseXfers.pl~",
+		"/mnt/webwise30/scripts/hz_dailyWebWiseXfers.pl",
+		"/mnt/webwise30/id_rsa.pub.michael_woytowich",
+		"/mnt/webwise30/admin/assets/js/uncompressed/bootstrap-wysiwyg.js",
+		"/mnt/webwise30/admin/assets/js/bootstrap-wysiwyg.min.js",
+		"/mnt/webwise30/admin/assets/css/less/thirdparty-wysiwyg.less",
+		"/mnt/webwise30/ace-demo/assets/js/uncompressed/bootstrap-wysiwyg.js",
+		"/mnt/webwise30/ace-demo/assets/js/bootstrap-wysiwyg.min.js",
+		"/mnt/webwise30/ace-demo/assets/css/less/thirdparty-wysiwyg.less",
+		"/mnt/webwise30/ace-demo/mustache/app/views/assets/scripts/wysiwyg.js",
+		"/mnt/webwise30/ace-demo/mustache/app/views/pages/wysiwyg.mustache",
+		"/mnt/webwise30/ace-demo/mustache/app/data/pages/wysiwyg.json",
+		"/mnt/webwise30/admin/template/utils/wysiwyg.utils~",
+		"/mnt/webwise30/admin/template/utils/wysiwyg.utils",
+		"/mnt/webwise30/admin/template/webmessages/webmessages.compose.wsiwyg.tmpl~",
+		"/mnt/webwise30/web/css/style-iefix.css",
+		"/mnt/webwise30/web/mobile-bootstrap/webmsgs-savconv.tmpl",
+		"/mnt/webwise30/web/auth-initial.cgi",
+		"/mnt/webwise30/admin/template/webmessages/webmessages.compose.tmpl~",
+		"/mnt/webwise30/admin/template/webmessages/webmessages.compose.chosen-multiple.tmpl",
+		"/Users/zleighton/work/sauce/.git/hooks/commit-msg.sample",
+		"/mnt/webwise30/web/template/cashflow-outstanding.tmpl",
+		"/mnt/webwise30/web/mobile-bootstrap/datepicker.utils",
+		"/mnt/webwise30/lib/dba.pl",
+		"/mnt/webwise30/web/js/datepicker.utils.js",
+		"/mnt/webwise30/admin/webmessages-common.pl",
+		"/mnt/webwise30/admin/webmessages.cgi",
+		"/mnt/webwise30/admin/xtrace.log",
+		"/mnt/webwise30/log/xtrace20140811.log",
+		"/mnt/webwise30/log/wwadmin20140811.log",
+		"/mnt/webwise30/log/dailyww20140811.log",
+		"/mnt/webwise30/web/mobile-bootstrap/transfer.tmpl",
+		"/mnt/webwise30/web/transfer.cgi",
+		"/mnt/webwise30/admin/transfers.cgi",
+		"/mnt/webwise30/log/dailyww20140808.log.gz",
+		"/mnt/webwise30/xchange/xchangelib.pl",
+		"/mnt/webwise30/test/xchange new ln calls",
+		"/mnt/webwise30/test/xchangelib-NOTTHESAMEFILENAME.pl",
+		"/mnt/webwise30/web/help/xfer.html",
+		"/mnt/webwise30/woffwork/webwise30-icons/icon-pdf-label-red.xcf",
+		"/mnt/webwise30/ace-demo/mustache/js/node_modules/mustache/test/_files/inverted_section.js",
+		"/mnt/webwise30/web/TogaWithIconsTake5.woff",
+		"/mnt/webwise30/woffwork/webwise30-icons/icon-stopcheck-label.xcf",
+		"/mnt/webwise30/ace-demo/mustache/app/views/pages/nestable-list.mustache",
+		"/mnt/cobolgen/importall_linb80.sh",
+		"/Users/zleighton/work/sauce/interptest",
+		"/mnt/webwise30/admin/template/newaccounts/newaccount.customer-1.tmpl",
+		"/mnt/webwise30/admin/template/newaccounts/newaccount.customer-0.js",
+		"/mnt/webwise30/lib/newaccountlib.pl",
+		"/mnt/webwise30/xtrace.log"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/mnt/webwise30/web/",
+			"/mnt/webwise30/,*.pl,*.cgi",
+			"/mnt/webwise30/",
+			"/mnt/webwise30/web/template/,*.tmpl",
+			"/mnt/webwise30/web/,*.tmpl",
+			"/mnt/webwise30/web/*.tmpl",
+			"/mnt/webwise30/web/,*.cgi,*.pl,*.css,*.tmpl,*.head,*.js,*.utils",
+			"/mnt/webwise30/,*.cgi,*.pl,*.css,*.tmpl,*.head,*.js,*.utils",
+			"/mnt/webwise30/web/,*.cgi,*.pl,*.css,*.tmpl,*.head,*.js",
+			"/mnt/webwise30/web/,*.cgi,*.pl,*.css,*.tmpl,*.head",
+			"/mnt/webwise30/web/,*.cgi,*.pl,*.css,*.tmpl",
+			"/mnt/webwise30/web/,*.cgi,*.pl,*.js,*.tmpl",
+			"/mnt/webwise30/,*.cgi,*.pl,*.js,*.tmpl",
+			"/mnt/webwise30/,*.cgi,*.pl",
+			"/mnt/webwise30/,*.*",
+			"/mnt/webwise30/web/,*.*",
+			"/mnt/webwise30/,*.*",
+			"/mnt/webwise30/",
+			"/mnt/webwise30/web/",
+			"/mnt/webwise30",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"164291f5-a2fa-4c98-b83a-3fcbfd7a96c6.pdf",
+			"174342",
+			"9031614",
+			"data",
+			"getDocType",
+			"JSON",
+			"docInfo",
+			"years",
+			"td",
+			"tr",
+			"lastSid",
+			"sub ",
+			"sub authenticateWebWise",
+			"runBillPayTests",
+			"12526",
+			"+",
+			"die 'Payment Addition Failed!' unless ",
+			"08/27/2014",
+			"debugPrintLog",
+			"<table id=\\\\\"scheduled\\\\\">(.*)<\\/table",
+			"\"*\"",
+			"paymentAmount",
+			"debugLog",
+			"<td\\sid=\"vendor-(\\d+)\">",
+			"debugExit",
+			"vendorName",
+			"nightly processing",
+			"processing",
+			"isBillPayAccount",
+			"not authorized",
+			"->get( \"$BASE_URL\"",
+			"\n        &$waitForLoad($twd);",
+			"$testCount++;",
+			"checkURL",
+			"$passCount++ if $testResult;",
+			"findElementAndInput",
+			"testDevice",
+			"args",
+			"ALARM",
+			"unanswered",
+			"00000000004059",
+			"$_",
+			"FEETRNUSTB",
+			"feet",
+			"feetrnustb",
+			"ww30web.pl",
+			"too many",
+			"$r{",
+			"addacctresults",
+			"f5test",
+			"genericAdminError",
+			"name\\=\\\".*?(amt|amount)",
+			"name\\=\\\".?(amt|amount)",
+			"name\\=\\\"(amt|amount)",
+			"bar",
+			"currency-fix",
+			"          ",
+			"webmsgid",
+			"acctno",
+			"bootboxHideAndModal",
+			"outgoing",
+			"incoming",
+			"loadWebMessageHistory",
+			"tabs-2",
+			"tabs-1",
+			"\n            },",
+			"\n\n            function() {\n                return",
+			"\n\n            function() {",
+			"\n\n        function() {\n            return",
+			"auth",
+			"DTOP01",
+			"DTTRAN",
+			"DTDESC",
+			"$SAV",
+			"DDA",
+			"dda",
+			"webShowDuplicateWarning",
+			"webIsFormIdSubmitted",
+			"buildAccountSelect",
+			"acct",
+			"$acct->{accountApplication}\n                          . $acct->{accountNumber}",
+			"truncated",
+			"if ( length($logdata) > 1024 ) {",
+			"addCommunicationPreference",
+			"datatype",
+			"overflow: scroll",
+			"overflow:",
+			"Form variables",
+			"Form Variables",
+			"Form",
+			"form v",
+			"appos",
+			"userid",
+			"appos",
+			"(Operating System)",
+			"\",",
+			"login error",
+			"req",
+			"wfrpri",
+			"OurException::ourthrow(",
+			"session",
+			"{\n",
+			"new JSON",
+			"#Work In Progress",
+			"invalid credentials",
+			"apiAuthToken",
+			"apiA",
+			"authHasPasswordExpired",
+			"{''}",
+			"dev/",
+			"dev",
+			"custno",
+			"print",
+			"net_effect",
+			"neteffect",
+			"nete",
+			"genericSuccess",
+			"spin",
+			"viewAddCustomer",
+			"sales-charts",
+			"h1",
+			"        $content = WWAllowBetween( $content, { key => 'iljoint' } );\n        $content = WWKillBetween( $content, { key => 'ilsingle' } );\n    } else {\n        $content = WWKillBetween( $content, { key => 'iljoint' } );\n        $content = WWAllowBetween( $content, { key => 'ilsingle' } );\n\n    }",
+			"Phone",
+			"input-mask-phone",
+			"Phone",
+			"formatCur",
+			"check",
+			"\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"LAST_SID",
+			"JSON->new()",
+			">get(",
+			"$checkURL",
+			"$BASE_URL",
+			"lindev8.internal",
+			"wwstaging",
+			"trid",
+			"transaction_id",
+			"field",
+			"fields",
+			"'Authentication Failed!'",
+			"handleAddTransferAccount",
+			"handleAddScheduledTransfer",
+			"h4",
+			"loanExceptions",
+			"xtrace(\\1) if $debug;",
+			"x_formatDateYYYYMMDD",
+			"2",
+			"td",
+			"nto",
+			"%015s",
+			"%014s",
+			"%011s",
+			"%08s",
+			"%09s",
+			"%010s",
+			"",
+			"Date",
+			"DT",
+			"",
+			"my $\\1 = $req->{'\\1'} || '';",
+			"\n",
+			"\\n",
+			"",
+			"|| ",
+			"req->{'\\1'}",
+			"",
+			"my $\\1 = $req->{'\\1'};",
+			"return",
+			"my $accountNumber; $accountNumber = $args[0] if $args[0];",
+			"my @accountList; @accountList = @{ $args[0] } if ref $args[0] eq 'ARRAY';",
+			"my @accountList = @{ $args[0] } if ref $args[0] eq 'ARRAY';",
+			"my $req; $req = $args[0] if ref $args[0] eq 'HASH';",
+			"return;",
+			"td",
+			"sub x_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"output.find_results":
+	{
+		"height": 209.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 760.0
+	},
+	"project": "techchallenge.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"util",
+				"ATC/Utils.pm"
+			],
+			[
+				"perly",
+				"PerlTidy: Error output"
+			],
+			[
+				"ww30web",
+				"webwise30/lib/ww30web.pl"
+			],
+			[
+				"templateli",
+				"webwise30/lib/wwtemplatelib.pl"
+			],
+			[
+				"loan.cgi",
+				"webwise30/web/loanpay.cgi"
+			],
+			[
+				"list.tmpl",
+				"webwise30/web/mobile-bootstrap/xferschedlist.tmpl"
+			],
+			[
+				"xfersch",
+				"webwise30/web/mobile-bootstrap/xfersched.tmpl"
+			],
+			[
+				"betaw",
+				"webwise30/web/template/betawarn.utils"
+			],
+			[
+				"",
+				"webwise30/admin/template/webmessages/webmessages.dashboard.tmpl"
+			],
+			[
+				"wwte",
+				"sauce/wwtest.pl"
+			],
+			[
+				"util.p",
+				"webwise30/lib/util.pl"
+			],
+			[
+				"hzt",
+				"sauce/hzTest_BillPay.pl"
+			],
+			[
+				"wwtest",
+				"sauce/wwtest.pl"
+			],
+			[
+				"xfersched.tm",
+				"webwise30/web/template/xfersched.tmpl"
+			],
+			[
+				"xfersche",
+				"webwise30/web/mobile-bootstrap/xfersched.js"
+			],
+			[
+				"xchang",
+				"webwise30/lib/xchangelib.pl"
+			],
+			[
+				"customers.cgi",
+				"webwise30/admin/customers.cgi"
+			],
+			[
+				"wwadminll",
+				"webwise30/lib/wwadminlib.pl"
+			],
+			[
+				"main.",
+				"webwise30/admin/main.cgi"
+			],
+			[
+				"billpay.pl",
+				"webwise30/wwapi/wwapiBillPay.pl"
+			],
+			[
+				"wys",
+				"webwise30/admin/template/utils/wysiwyg.utils"
+			],
+			[
+				"wsiwy",
+				"webwise30/admin/template/webmessages/webmessages.compose.wysiwyg.tmpl"
+			],
+			[
+				"compose",
+				"webwise30/admin/template/webmessages/webmessages.compose.tmpl"
+			],
+			[
+				"datepicker.utils.js",
+				"webwise30/web/js/datepicker.utils.js"
+			],
+			[
+				"datepick",
+				"webwise30/web/template/datepicker.utils"
+			],
+			[
+				"webmes",
+				"webwise30/admin/webmessages-ajax.cgi"
+			],
+			[
+				"transfer.pl",
+				"webwise30/wwapi/hz_wwapiTransfer.pl"
+			],
+			[
+				"xchangelib",
+				"webwise30/lib/xchangelib.pl"
+			],
+			[
+				"xhcnalib",
+				"webwise30/xchange/xchangelib.pl"
+			],
+			[
+				"ilreview",
+				"webwise30/admin/template/newaccounts/newaccount.ilreview.tmpl"
+			],
+			[
+				"il-",
+				"webwise30/lib/il-newaccountlib.pl"
+			],
+			[
+				"customer-0.js",
+				"webwise30/admin/template/newaccounts/newaccount.customer-0.js"
+			],
+			[
+				"customer-1",
+				"webwise30/admin/template/newaccounts/newaccount.customer-1.js"
+			],
+			[
+				"customer-0.",
+				"webwise30/admin/template/newaccounts/newaccount.customer-0.tmpl"
+			],
+			[
+				"newaccountli",
+				"webwise30/lib/il-newaccountlib.pl"
+			],
+			[
+				"xchangel",
+				"webwise30/lib/xchangelib.pl"
+			],
+			[
+				"xtrace",
+				"webwise30/log/xtrace20140811.log"
+			],
+			[
+				"adminl",
+				"webwise30/log/wwadmin20140808.log"
+			],
+			[
+				"tracel",
+				"webwise30/admin/xtrace.log"
+			],
+			[
+				"newaccounts-aja",
+				"webwise30/admin/newaccounts-ajax.cgi"
+			],
+			[
+				"cu-1.js",
+				"webwise30/admin/template/newaccounts/newaccount.customer-1.js"
+			],
+			[
+				"newacc-aja",
+				"webwise30/admin/newaccounts-ajax.cgi"
+			],
+			[
+				"pending",
+				"webwise30/admin/pendingaccounts.cgi"
+			],
+			[
+				"xchant",
+				"webwise30/web/xchangetest.cgi"
+			],
+			[
+				"login",
+				"webwise30/admin/login.cgi"
+			],
+			[
+				"sign",
+				"webwise30/admin/signoff.cgi"
+			],
+			[
+				"hz_dai",
+				"webwise30/scripts/hz_dailyWebWiseXfers.pl"
+			],
+			[
+				"w30web",
+				"webwise30/lib/ww30web.pl"
+			],
+			[
+				"wwadminl",
+				"webwise30/lib/wwadminlib.pl"
+			],
+			[
+				"webmessages-co",
+				"webwise30/admin/webmessages-common.pl"
+			],
+			[
+				"odbcli",
+				"webwise30/lib/odbclib.pl"
+			],
+			[
+				"hz_t",
+				"webwise30/wwapi/hz_wwapiTransfer.pl"
+			],
+			[
+				"customer.transfer",
+				"webwise30/admin/template/customers/customer.transfers.accounts.row.tmpl"
+			],
+			[
+				"adminlog",
+				"webwise30/log/wwadmin20140808.log"
+			],
+			[
+				"dba",
+				"webwise30/lib/dba.pl"
+			],
+			[
+				"trans-aja",
+				"webwise30/admin/transfers-ajax.pl"
+			],
+			[
+				"adminli",
+				"webwise30/lib/wwadminlib.pl"
+			],
+			[
+				"traaccaddrow",
+				"webwise30/admin/template/customers/customer.transfers.account.add.row.tmpl"
+			],
+			[
+				"customer.trans",
+				"webwise30/admin/template/customers/customer.transfers.account.add.tmpl"
+			],
+			[
+				"account-a",
+				"webwise30/admin/accounts-ajax.pl"
+			],
+			[
+				"customers-aja",
+				"webwise30/admin/customers-ajax.cgi"
+			],
+			[
+				"apitr",
+				"webwise30/wwapi/hz_wwapiTransfer.pl"
+			],
+			[
+				"scripts/",
+				"webwise30/scripts/dailyWebWiseXfers.pl"
+			],
+			[
+				"hz_au",
+				"webwise30/wwapi/hz_wwapiAuth.pl"
+			],
+			[
+				"compose.w",
+				"webwise30/admin/template/webmessages/webmessages.compose.wysiwyg.tmpl"
+			],
+			[
+				"compost",
+				"webwise30/admin/template/webmessages/webmessages.compose.tmpl"
+			],
+			[
+				"webmessages.compo",
+				"webwise30/admin/template/webmessages/webmessages.compose.chosen-mutliple.tmpl"
+			],
+			[
+				"queue.item",
+				"webwise30/admin/template/webmessages/webmessages.queue.item.tmpl"
+			],
+			[
+				"webmessages.cgi",
+				"webwise30/admin/webmessages.cgi"
+			],
+			[
+				"webmess",
+				"webwise30/admin/webmessages-common.pl"
+			],
+			[
+				"stop.tm",
+				"webwise30/web/template/stop.tmpl"
+			],
+			[
+				"odlad",
+				"webwise30/web/template/odladv.tmpl"
+			],
+			[
+				"odl.tmpl",
+				"webwise30/web/template/odl.tmpl"
+			],
+			[
+				"modifyre",
+				"webwise30/web/template/billpay-modifyrecurringpayment.tmpl"
+			],
+			[
+				"billpay-mod",
+				"webwise30/web/mobile-bootstrap/billpay-modifyrecurringpayment.tmpl"
+			],
+			[
+				"utils.j",
+				"webwise30/web/js/form.utils.js~"
+			],
+			[
+				"loan.tm",
+				"webwise30/web/template/loan.tmpl"
+			],
+			[
+				"webm",
+				"webwise30/admin/webmessages-common.pl"
+			],
+			[
+				"customers-com",
+				"webwise30/admin/customers-common.pl"
+			],
+			[
+				"accounthist.search.js",
+				"webwise30/web/template/accounthist.search.js"
+			],
+			[
+				"accounthist.js",
+				"webwise30/web/mobile-bootstrap/accounthist.js"
+			],
+			[
+				"updatenick.tmpl",
+				"webwise30/web/mobile-bootstrap/updatenick.tmpl"
+			],
+			[
+				"odlad-con",
+				"webwise30/web/mobile-bootstrap/odladv-confirm.tmpl"
+			],
+			[
+				"checkedit.tmpl",
+				"webwise30/web/mobile-bootstrap/checkedit.tmpl"
+			],
+			[
+				"odladv",
+				"webwise30/web/mobile-bootstrap/odladv.tmpl"
+			],
+			[
+				"odl-",
+				"webwise30/web/mobile-bootstrap/odl-done.tmpl"
+			],
+			[
+				"odl-confirm",
+				"webwise30/web/template/odl-confirm.tmpl"
+			],
+			[
+				"odl.c",
+				"webwise30/web/odl.cgi"
+			],
+			[
+				"apiacc",
+				"webwise30/wwapi/wwapiAccount.pl"
+			],
+			[
+				"odbcl",
+				"webwise30/lib/odbclib.pl"
+			],
+			[
+				"ofx",
+				"webwise30/web/ofxhist.pl"
+			],
+			[
+				"hist.cgi",
+				"webwise30/web/accounthist.cgi"
+			],
+			[
+				"atclib",
+				"webwise30/admin/assets/js/atclib.js"
+			],
+			[
+				"wwadmin",
+				"webwise30/lib/wwadminlib.pl"
+			],
+			[
+				"assets",
+				"webwise30/admin/template/assets.utils"
+			],
+			[
+				"default.h",
+				"webwise30/admin/template/default.head"
+			],
+			[
+				"customer.cgi",
+				"webwise30/admin/customers.cgi"
+			],
+			[
+				"webmessg",
+				"webwise30/admin/webmessages.cgi"
+			],
+			[
+				"accounthist.cgi",
+				"webwise30/web/accounthist.cgi"
+			],
+			[
+				"webmessearch",
+				"webwise30/admin/template/webmessages/webmessages.queue.search.js"
+			],
+			[
+				"accounthist.",
+				"webwise30/web/template/accounthist.js"
+			],
+			[
+				"datepi",
+				"webwise30/web/template/datepicker.utils"
+			],
+			[
+				"form.util",
+				"webwise30/web/mobile-bootstrap/form.utils"
+			],
+			[
+				"accounth",
+				"webwise30/web/template/accounthist.tmpl"
+			],
+			[
+				"ajax",
+				"webwise30/admin/profile-ajax.pl"
+			],
+			[
+				"default.head",
+				"webwise30/web/template/default.head"
+			],
+			[
+				"rdcsign",
+				"webwise30/web/template/rdcsignup.tmpl"
+			],
+			[
+				"rdcsignup.js",
+				"webwise30/web/template/rdcsignup.js"
+			],
+			[
+				"billpay-a",
+				"webwise30/web/mobile-bootstrap/billpay-addpayment-onetime.tmpl"
+			],
+			[
+				"billpay-add",
+				"webwise30/web/mobile-bootstrap/billpay-addpayment.tmpl"
+			],
+			[
+				"queue.sea",
+				"webwise30/admin/template/webmessages/webmessages.queue.search.tmpl"
+			],
+			[
+				"customer.",
+				"webwise30/admin/template/customers/customer.js"
+			],
+			[
+				"queue.tmpl",
+				"webwise30/admin/template/webmessages/webmessages.queue.tmpl"
+			],
+			[
+				"webmessages.que",
+				"webwise30/admin/template/webmessages/webmessages.queue.search.js"
+			],
+			[
+				"templatel",
+				"webwise30/lib/wwtemplatelib.pl"
+			],
+			[
+				"ww30",
+				"webwise30/web/template/ww30notice.tmpl"
+			],
+			[
+				"webmessages-aja",
+				"webwise30/admin/webmessages-ajax.cgi"
+			],
+			[
+				"webmessages.me",
+				"webwise30/admin/template/webmessages/webmessages.message.tmpl"
+			],
+			[
+				"webmessages.js",
+				"webwise30/admin/template/webmessages/webmessages.message.js"
+			],
+			[
+				"webmejs",
+				"webwise30/admin/template/webmessages/webmessages.message.js"
+			],
+			[
+				"xtra",
+				"webwise30/admin/xtrace.log"
+			],
+			[
+				"xch",
+				"webwise30/lib/xchangelib.pl"
+			],
+			[
+				"wwapiauth",
+				"webwise30/wwapi/wwapiAuth.pl"
+			],
+			[
+				"defaulfoot",
+				"webwise30/web/template/default.footer"
+			],
+			[
+				"footer",
+				"webwise30/web/mobile-bootstrap/default.footer"
+			],
+			[
+				"login.cgi",
+				"webwise30/web/login.cgi"
+			],
+			[
+				"auth-in",
+				"webwise30/web/auth-initial.cgi"
+			],
+			[
+				"auth.cgi",
+				"webwise30/web/auth.cgi"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeProjects/webwise20.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"setupMenu",
+				"WWSetupMenu"
+			],
+			[
+				"webB",
+				"webBuildAccountSelect"
+			]
+		],
+		"width": 570.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
