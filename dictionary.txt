@@ -5,11 +5,27 @@
 
 Question: How will you represent a dictionary in the most efficient way you can?
 
-Answer: The most efficient data structure to represent a dictionary is a hash or associative array. Hashes have a O(1) for retrieval operations so having a word and looking up a definition would be most efficient with a hash. Perl really shows the power of hashes as almost all data structures in perl are represented via hashes.
+Answer: The most efficient data structure to represent a dictionary is a hash or associative array. Hashes have a O(1) for retrieval operations so having a word and looking up a definition would be most efficient with a hash. Perl really shows the power of hashes as almost all data structures in perl are represented with hashes.
 
 Question: Describe an algorithm that gets a word and finds all the words in the dictionary that are a permutation of the input.
 
-Answer: 
+Answer: I will describe a recursive retrieval method based off of Heap's algorithm combined with a simple looping through of our results, retrieving from the hash above. Firstly we need to find all the permutations of the input, and create a list of those. We do this by recursion.
+
+The function Fn takes an integer which is the index N, and the string or array of characters S. 
+
+If N == 1 then output the string passed, that gets pushed onto the list of the values we want later SV[]. 
+
+If N != 1, loop through S 1 to N i times, each time 
+
+    return Fn(N-1,S) and continue
+
+    if N%2 != 0 //odd
+        swap character at position S[1] with S[N]
+        repeat loop
+
+    if N%2 == 0 //even
+        swap S[i] with S[N]
+        repeat loop
 
 
-
+This will produce an output SV[] which is a list of all possible values. Now that we have that we simply loop through once, and given the hash structure we established we can look up the items each one by one with O(1) complexity.
