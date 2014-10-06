@@ -5,7 +5,7 @@
 
 Question: How will you represent a dictionary in the most efficient way you can?
 
-Answer: 
+Answer: The most efficient data structure to represent a dictionary is a hash or associative array. Hashes have a O(1) for retrieval operations so having a word and looking up a definition would be most efficient with a hash. Perl really shows the power of hashes as almost all data structures in perl are represented via hashes.
 
 Question: Describe an algorithm that gets a word and finds all the words in the dictionary that are a permutation of the input.
 
