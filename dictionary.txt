@@ -9,11 +9,16 @@ Answer: The most efficient data structure to represent a dictionary is a hash or
 
 Question: Describe an algorithm that gets a word and finds all the words in the dictionary that are a permutation of the input.
 
-Answer: I will describe a recursive retrieval method based off of Heap's algorithm combined with a simple looping through of our results, retrieving from the hash above. Firstly we need to find all the permutations of the input, and create a list of those. We do this by recursion.
+Answer: I will describe a recursive retrieval method based off of Heap's algorithm combined with a simple retrieving from the hash above. Firstly we need to find all the permutations of the input, and if the value exists in the hash, return it. We do this by recursion.
 
 The function Fn takes an integer which is the index N, and the string or array of characters S. 
 
-If N == 1 then output the string passed, that gets pushed onto the list of the values we want later SV[]. 
+If N == 1 then 
+    //Look up S in the dictionary hash
+    if Hash{S} exists    // dictionary value Hash{S} would like Apple -> A Fruit From A Tree
+        return S  
+    If not 
+        return NULL
 
 If N != 1, loop through S 1 to N i times, each time 
 
@@ -27,5 +32,4 @@ If N != 1, loop through S 1 to N i times, each time
         swap S[i] with S[N]
         repeat loop
 
-
-This will produce an output SV[] which is a list of all possible values. Now that we have that we simply loop through once, and given the hash structure we established we can look up the items each one by one with O(1) complexity.
+This will produce an output list of the values that were found in the last step of the function when N == 1, if the value of S at that time was found in the hash of dictionary values it is returned, otherwise the value was null and discarded.
