@@ -10,10 +10,13 @@ use warnings;
 
 use Data::Dumper;
 
+#Change this to change list length
+my $LIST_LENGTH = 100; 
+
 #this gets a song list in order
 # my @songList = @{generateSongList(50)};
 
-print Dumper(randomizePlaylist(generateSongList(100)));
+print Dumper(randomizePlaylist(generateSongList($LIST_LENGTH)));
 
 #generate a song list in order, 0 - n
 sub generateSongList {
